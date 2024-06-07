@@ -1,0 +1,2 @@
+This project takes a look at healthcare data using A/B testing methods to explore if the Admission type or the 
+Medical Condition has an impact on billing costs. Use the instructions in the notebook to run the code and explore the findings.
